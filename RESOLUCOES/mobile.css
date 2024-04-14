@@ -1,0 +1,56 @@
+@media (min-width: 350px){
+    @keyframes descer {
+        from {
+          transform: translateY(-380px);
+        }
+        to {
+          transform: translateX(0);
+        }
+    }
+   
+    header>h1{
+        font-size: 40px;
+    }
+
+    header>h2{
+        font-size: 18px;
+    }
+
+    label{
+        margin-left: 20vw;
+    }
+
+    div>input{
+        margin-left: 12vw;
+        font-size: 22px;
+    }
+
+    div>select{
+        margin-left: 28vw;
+        font-size: 25px;
+    }
+
+    div>select>option{
+        font-size: 20px;
+    }
+
+    #card{
+        font-size: 25px;
+        margin-left: 50px;
+        text-align: center;
+    }
+
+    #card>ul{
+        margin-left: 30px;
+        margin-right: 0px;
+    }
+
+    #resultado{
+        font-size: 22px;
+    }
+
+    footer{
+        font-size: 12px;
+    }
+}
+
