@@ -1,8 +1,9 @@
 *{
     margin: 0px;
     padding: 0px;
+    min-height:100%;
 }
 
 body{
-    background-color: blueviolet;
+    background: linear-gradient(to bottom, rgb(99, 7, 99), rgb(180, 27, 180));
 }
