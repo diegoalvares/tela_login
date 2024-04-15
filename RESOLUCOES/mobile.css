@@ -19,6 +19,11 @@
     footer{
         margin-top: 98.5vh;
         width: 985px;
+        font-size: 25px;
+    }
+
+    footer>p>a{
+        font-size: 25px;
     }
 }
 
